@@ -1,0 +1,7 @@
+version=1
+id=2968451810
+title=Push Furniture
+description=This allows you to push furniture as long as behind it is clear.
+description=This is my very first mod, and i've only done a little testing so beware!
+tags=Build 41;Balance;Realistic
+visibility=public

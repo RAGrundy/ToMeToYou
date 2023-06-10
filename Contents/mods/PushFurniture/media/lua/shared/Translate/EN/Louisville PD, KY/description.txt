@@ -1,0 +1,14 @@
+Louisville PD
+ <LINE> <LINE>
+ In the heart of Louisville, KY, the Louisville Police Department and Correctional Services Complex
+ is the regional headquarters of Knox Country law enforcement. Connected directly to the County
+ Courthouse via skybridge, and to two other buildings, it is one of the largest non-commercial
+ buildings in the region. Unfortunately, like the St. Peregrin Hospital, it is also overrun
+ by the Knox Infection and is host to a great many former law enforcement officers, who are
+ now serving and protecting their undead companions.
+ <LINE> <LINE>
+ Still, the Police Department's generously-sized armory is a potential treasure-trove of arms and 
+ armour if one can cut through the hordes and the secure gates, perhaps rivalled only by the 
+ Stars & Stripes Gun Store in The Grand Ohio Mall both in terms of potential loot and the number 
+ of undead surrounding it.
+
