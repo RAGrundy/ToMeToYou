@@ -1,8 +1,0 @@
-Riverwood PD
- <LINE> <LINE>
- Riverside is a small town in Knox Country. The town was home to many of the wealthy citizens of
- Knox Country, with the less fortunate residents living in the Scenic Grove Mobile Home Park, 
- situated in the outskirts.
- <LINE> <LINE>
- The police station's armory is small.
-
